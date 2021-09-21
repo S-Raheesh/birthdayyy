@@ -1,0 +1,42 @@
+.body_background
+{
+    background-image: url("d.gif");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    background-image: url("bday-416.gif")
+}
+h2{
+    color: rgb(0, 0, 0);
+    border-radius:10px;
+    width: 200px;
+    padding: 5px;
+}
+h3{
+    display: inline-block;
+}
+span{
+    font-size: 22px;
+    color: white;
+}
+
+#download
+{
+    background: #ced3be;
+    float: left;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#head_info
+{
+   background: #000000;
+   width: 600px;
+   border-radius: 10px;
+   margin-bottom: 10px;
+}
